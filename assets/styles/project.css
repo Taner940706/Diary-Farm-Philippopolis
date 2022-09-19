@@ -1,0 +1,293 @@
+		.bg-dark {
+
+	background-color: #26a816!important;
+
+}
+
+
+.form-row{
+
+justify-content: center
+
+}
+
+#button
+{
+
+background-color: #c5a01c;
+
+}
+.nav-item:hover
+{
+
+	color:blue;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ccae18;
+    border-color: #ccae18;
+}
+
+#send
+{
+
+background-color: #26a816;
+border-color: #26a816;
+}
+
+#logout{
+background-color: #ccae18;
+border-color: #ccae18;
+
+}
+
+#login{
+background-color: #ccae18;
+border-color: #ccae18;
+
+}
+
+#navbarCollapse a:hover{
+
+			color: #c5a01c;
+	
+}
+
+
+		a{
+			color: white;
+		}
+		a:hover {
+			color: #c5a01c;
+		}
+		.nav-link{
+			color: #17A2B8;
+		}
+		.bs-example{
+			margin: 20px;
+		}
+		#carouselExampleControls img{
+			width: 50%;
+			height: 400px;
+		}
+		.footer .social {
+			font-size: 22px;
+			color: #17A2B8;
+		}
+		.footer p {
+			color: white;
+		}
+		.footer ul {
+			list-style-type:none;
+		}
+		.media{
+			text-align: justify;
+		}
+
+		#rights{
+			color: white;
+			font-size: 12px;
+		}
+
+		#smallFooter .fab {
+			font-size: 30px;
+		}
+		
+
+
+
+
+
+		body {
+			background-color: #fff;
+			margin: 0;
+		}
+
+		#cont {
+			position: relative;
+			border-radius: 6px;
+			box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+
+			background: #f3f3f3;
+
+			margin: -20px 30px 0px 30px;
+			padding: 20px;
+		}
+
+		ul {
+			margin: 0px;
+
+			padding: 0px;
+			list-style: none;
+		}
+		li {
+			margin: 0px;
+		}
+		li ul {
+			margin-left: 20px;
+		}
+
+		.lhead {
+			background: #007bff;
+			padding: 10px;
+			margin: 10px 0px;
+			color: white;
+		}
+
+		.lcount {
+			padding: 0px 10px;
+		}
+
+		.lpage {
+			border-bottom: #ddd 1px solid;
+			padding: 5px;
+		}
+
+		.lpage a{
+			color: #343A40;
+		}
+		.lpage a:hover {
+			color: #c5a01c;
+		}
+		.last-page {
+			border: none;
+		}
+
+		.address {
+			cursor: pointer;
+		}
+
+		.input-group-text {
+             background-color: #ccae18;
+		}
+
+.input-group-text{
+           color: #f8f9fa;
+		}
+
+
+
+.card-img-top:hover {opacity: 0.7;}
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+
+.caption-container {
+  text-align: center;
+  background-color: #26a816;
+  padding: 2px 16px;
+  color: white;
+}
+
+#caption{
+	color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+
+
+#product {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#product td, #product th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#product tr:nth-child(even){background-color: #f2f2f2;}
+
+#product tr:hover {background-color: #ddd;}
+
+#product th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #26a816!important;
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
